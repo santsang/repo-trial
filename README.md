@@ -1,2 +1,2 @@
-# tutorial
+# trial
 Experimenting git now
